@@ -1,1 +1,1 @@
-# DestinySlackBot
+# BungiePy 
